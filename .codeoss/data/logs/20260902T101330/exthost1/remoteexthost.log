@@ -1,0 +1,35 @@
+2026-09-02 10:14:39.728 [info] Extension host with pid 1951 started
+2026-09-02 10:14:39.739 [info] Lock '/home/banikbidhan101/.codeoss/data/User/workspaceStorage/6b15759a/vscode.lock': Lock acquired.
+2026-09-02 10:14:39.963 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-02 10:14:39.964 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-02 10:14:39.964 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2026-09-02 10:14:40.996 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-09-02 10:14:41.021 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-09-02 10:14:41.184 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-09-02 10:14:41.185 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-02 10:14:41.328 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-02 10:14:41.328 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-02 10:14:41.329 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-02 10:14:41.913 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.authorize'
+2026-09-02 10:14:42.574 [error] CodeExpectedError: Unable to write to User Settings because cloudShell.cloudShell.showCloudCodeInstallHint is not a registered configuration.
+    at j5t.z (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:4657:6793)
+    at j5t.F (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:4657:9255)
+    at j5t.o (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:4657:3874)
+    at Object.factory (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:4657:3774)
+    at Sy.j (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:30:76318)
+    at Sy.k (https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:30:76451)
+    at https://970-cs-536152d7-1771-4fcf-9af9-0c444d220e8e.cs-asia-southeast1-ajrg.cloudshell.dev/cde-6c78bcd39a077923a0235dc3fc580b4c28e108c4/static/out/vs/code/browser/workbench/workbench.js:30:76360
+2026-09-02 10:14:48.598 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2026-09-02 10:14:48.598 [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-09-02 10:14:48.598 [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-09-02 10:14:48.598 [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-09-02 10:14:48.598 [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2026-09-02 10:14:48.696 [info] Eager extensions activated
+2026-09-02 10:14:48.697 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-09-02 10:14:48.697 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-09-02 10:14:48.701 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-02 10:14:48.701 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-09-02 10:14:48.702 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-02 10:14:49.814 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2026-09-02 10:14:50.248 [info] ExtensionService#_doActivateExtension googlecloudtools.datacloud, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-09-02 10:14:54.011 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'

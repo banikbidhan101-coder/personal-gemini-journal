@@ -1,0 +1,18 @@
+2026-09-02 06:10:43.666 [warning] Dir "/home/banikbidhan101/personal-gemini-journal/.pixi/envs" is not watchable (directory does not exist)
+2026-09-02 06:10:49.766 [info] Starting Environment refresh
+2026-09-02 06:10:49.824 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-09-02 06:10:49.844 [info] > hatch env show --json
+2026-09-02 06:10:49.844 [info] cwd: .
+2026-09-02 06:10:49.869 [info] > conda info --json
+2026-09-02 06:10:49.872 [info] Python interpreter path: /bin/python
+2026-09-02 06:10:49.938 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-09-02 06:10:49.938 [info] Environments refresh paths discovered: 173 milliseconds
+2026-09-02 06:10:50.094 [info] Environments refresh finished (event): 329 milliseconds
+2026-09-02 06:10:50.102 [info] Environment refresh took 337 milliseconds
+2026-09-02 06:10:50.298 [info] Starting Environment refresh
+2026-09-02 06:10:50.323 [info] Environments refresh finished (event): 25 milliseconds
+2026-09-02 06:10:50.323 [info] Environments refresh paths discovered: 25 milliseconds
+2026-09-02 06:10:50.324 [info] Environment refresh took 26 milliseconds
+2026-09-02 06:10:50.337 [info] > pyenv which python
+2026-09-02 06:10:50.337 [info] cwd: .
+2026-09-02 06:10:51.891 [info] Starting Jedi language server for personal-gemini-journal.

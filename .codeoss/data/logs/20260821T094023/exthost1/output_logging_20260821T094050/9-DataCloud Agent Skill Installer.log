@@ -1,0 +1,80 @@
+[2026-08-21T09:40:56.341Z] Activating Agent Skill Installer
+[2026-08-21T09:40:56.348Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-08-21T09:40:56.348Z] Profile antigravity-ide is NOT active
+[2026-08-21T09:40:56.348Z] Profile antigravity is NOT active
+[2026-08-21T09:40:56.348Z] Profile jetski is NOT active
+[2026-08-21T09:40:56.348Z] Profile cursor is NOT active
+[2026-08-21T09:40:56.348Z] Profile copilot is NOT active
+[2026-08-21T09:40:56.348Z] Profile gemini-code-assist is active
+[2026-08-21T09:40:56.348Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-08-21T09:40:56.348Z] Profile antigravity-ide is NOT active
+[2026-08-21T09:40:56.348Z] Profile antigravity is NOT active
+[2026-08-21T09:40:56.348Z] Profile jetski is NOT active
+[2026-08-21T09:40:56.348Z] Profile cursor is NOT active
+[2026-08-21T09:40:56.348Z] Profile copilot is NOT active
+[2026-08-21T09:40:56.348Z] Profile gemini-code-assist is active
+[2026-08-21T09:41:21.042Z] Checking skills for Gemini Code Assist in /home/banikbidhan101/.gemini/skills. Force=false
+[2026-08-21T09:41:21.044Z] No previous manifest found or it was invalid.
+[2026-08-21T09:41:21.046Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills
+[2026-08-21T09:41:21.059Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/accidental-data-loss-prevention
+[2026-08-21T09:41:21.060Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/bigquery-ai-ml
+[2026-08-21T09:41:21.060Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/bigquery-bigframes
+[2026-08-21T09:41:21.060Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/bigquery-data-transfer-service
+[2026-08-21T09:41:21.060Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/bigquery-graph
+[2026-08-21T09:41:21.060Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/bigquery-sql
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/building-data-apps
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/data-autocleaning
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/dataform-bigquery
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/dbt-bigquery
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/discovering-gcp-data-assets
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/enforcing-resource-attribution
+[2026-08-21T09:41:21.061Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/federate-lakehouse-catalog
+[2026-08-21T09:41:21.062Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcloud-auth-verification
+[2026-08-21T09:41:21.062Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-composer-troubleshooting
+[2026-08-21T09:41:21.062Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-data-pipelines
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-dataflow
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-dag-authoring
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-migrations
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-recommendations
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-pipeline-orchestration
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcp-spark
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/gcs-security-assessment
+[2026-08-21T09:41:21.063Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/google-cloud-storage-basics
+[2026-08-21T09:41:21.064Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/managing-python-dependencies
+[2026-08-21T09:41:21.064Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/ml-best-practices
+[2026-08-21T09:41:21.064Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/notebook-guidance
+[2026-08-21T09:41:21.064Z] Ensured destination directory exists: /home/banikbidhan101/.gemini/skills/skill-repair
+[2026-08-21T09:41:21.154Z] Copied skill accidental-data-loss-prevention to /home/banikbidhan101/.gemini/skills/accidental-data-loss-prevention
+[2026-08-21T09:41:21.158Z] Copied skill dataform-bigquery to /home/banikbidhan101/.gemini/skills/dataform-bigquery
+[2026-08-21T09:41:21.159Z] Copied skill dbt-bigquery to /home/banikbidhan101/.gemini/skills/dbt-bigquery
+[2026-08-21T09:41:21.160Z] Copied skill discovering-gcp-data-assets to /home/banikbidhan101/.gemini/skills/discovering-gcp-data-assets
+[2026-08-21T09:41:21.160Z] Copied skill enforcing-resource-attribution to /home/banikbidhan101/.gemini/skills/enforcing-resource-attribution
+[2026-08-21T09:41:21.162Z] Copied skill gcp-composer-troubleshooting to /home/banikbidhan101/.gemini/skills/gcp-composer-troubleshooting
+[2026-08-21T09:41:21.163Z] Copied skill gcp-data-pipelines to /home/banikbidhan101/.gemini/skills/gcp-data-pipelines
+[2026-08-21T09:41:21.163Z] Copied skill gcp-managed-airflow-dag-authoring to /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-dag-authoring
+[2026-08-21T09:41:21.165Z] Copied skill managing-python-dependencies to /home/banikbidhan101/.gemini/skills/managing-python-dependencies
+[2026-08-21T09:41:21.166Z] Copied skill ml-best-practices to /home/banikbidhan101/.gemini/skills/ml-best-practices
+[2026-08-21T09:41:21.167Z] Copied skill notebook-guidance to /home/banikbidhan101/.gemini/skills/notebook-guidance
+[2026-08-21T09:41:21.167Z] Copied skill skill-repair to /home/banikbidhan101/.gemini/skills/skill-repair
+[2026-08-21T09:41:21.168Z] Copied skill federate-lakehouse-catalog to /home/banikbidhan101/.gemini/skills/federate-lakehouse-catalog
+[2026-08-21T09:41:21.169Z] Copied skill gcloud-auth-verification to /home/banikbidhan101/.gemini/skills/gcloud-auth-verification
+[2026-08-21T09:41:21.172Z] Copied skill bigquery-sql to /home/banikbidhan101/.gemini/skills/bigquery-sql
+[2026-08-21T09:41:21.193Z] Copied skill data-autocleaning to /home/banikbidhan101/.gemini/skills/data-autocleaning
+[2026-08-21T09:41:21.196Z] Copied skill bigquery-data-transfer-service to /home/banikbidhan101/.gemini/skills/bigquery-data-transfer-service
+[2026-08-21T09:41:21.197Z] Copied skill gcp-pipeline-resource-provisioning to /home/banikbidhan101/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-08-21T09:41:21.205Z] Copied skill gcp-managed-airflow-migrations to /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-migrations
+[2026-08-21T09:41:21.209Z] Copied skill bigquery-bigframes to /home/banikbidhan101/.gemini/skills/bigquery-bigframes
+[2026-08-21T09:41:21.219Z] Copied skill gcp-spark to /home/banikbidhan101/.gemini/skills/gcp-spark
+[2026-08-21T09:41:21.233Z] Copied skill gcp-pipeline-orchestration to /home/banikbidhan101/.gemini/skills/gcp-pipeline-orchestration
+[2026-08-21T09:41:21.236Z] Copied skill building-data-apps to /home/banikbidhan101/.gemini/skills/building-data-apps
+[2026-08-21T09:41:21.237Z] Copied skill gcp-dataflow to /home/banikbidhan101/.gemini/skills/gcp-dataflow
+[2026-08-21T09:41:21.240Z] Copied skill google-cloud-storage-basics to /home/banikbidhan101/.gemini/skills/google-cloud-storage-basics
+[2026-08-21T09:41:21.242Z] Copied skill bigquery-graph to /home/banikbidhan101/.gemini/skills/bigquery-graph
+[2026-08-21T09:41:21.250Z] Copied skill gcp-managed-airflow-recommendations to /home/banikbidhan101/.gemini/skills/gcp-managed-airflow-recommendations
+[2026-08-21T09:41:21.253Z] Copied skill bigquery-ai-ml to /home/banikbidhan101/.gemini/skills/bigquery-ai-ml
+[2026-08-21T09:41:21.262Z] Copied skill gcs-security-assessment to /home/banikbidhan101/.gemini/skills/gcs-security-assessment
+[2026-08-21T09:41:21.263Z] Finished copying skills to /home/banikbidhan101/.gemini/skills. Updated 29 skills.
+[2026-08-21T09:41:21.267Z] Installation completed. Manifest updated.
+[2026-08-21T09:41:21.267Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+[2026-08-21T09:41:21.276Z] Hook plugin for gemini-code-assist installed successfully to /home/banikbidhan101/.gemini/config/plugins/googlecloudtools.datacloud_telemetry

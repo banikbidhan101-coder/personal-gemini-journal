@@ -1,0 +1,7 @@
+2026-09-02 08:53:59.182 [warning] Dir "/home/banikbidhan101/personal-gemini-journal/.pixi/envs" is not watchable (directory does not exist)
+2026-09-02 08:54:05.506 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-09-02 08:54:05.541 [info] Python interpreter path: /bin/python
+2026-09-02 08:54:05.835 [info] > conda info --json
+2026-09-02 08:54:06.645 [info] > pyenv which python
+2026-09-02 08:54:06.645 [info] cwd: .
+2026-09-02 08:54:07.899 [info] Starting Jedi language server for personal-gemini-journal.

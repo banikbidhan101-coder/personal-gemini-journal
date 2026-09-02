@@ -1,0 +1,25 @@
+2026-08-21 10:18:17.742 [info] 
+
+
+
+
+2026-08-21 10:18:17.790 [info] [AgentHostChannel] Registered unavailable IPC channel 'agentHostProxy': no --agent-host-bridge-port / --agent-host-bridge-path set.
+2026-08-21 10:18:17.809 [info] Extension host agent started.
+2026-08-21 10:18:20.563 [info] [127.0.0.1][ee925133][ManagementConnection] New connection established.
+2026-08-21 10:18:20.614 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] New connection established.
+2026-08-21 10:18:23.114 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] <1473> Launched Extension Host Process.
+2026-08-21 10:18:23.978 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] <1473> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-08-21 10:21:00.325 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:21:00.543 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:22:25.003 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:22:25.231 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:26:53.741 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:26:54.014 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:39:13.206 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:39:13.425 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:40:49.318 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:40:49.660 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:45:50.202 [info] [127.0.0.1][ee925133][ManagementConnection] The client has reconnected.
+2026-08-21 10:45:50.419 [info] [127.0.0.1][6a610f8b][ExtensionHostConnection] The client has reconnected.
+2026-08-21 10:46:47.596 [info] [127.0.0.1][ee925133][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

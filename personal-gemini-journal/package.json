@@ -1,0 +1,16 @@
+{
+  "name": "personal-gemini-journal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.20.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
