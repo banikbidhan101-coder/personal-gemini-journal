@@ -17,10 +17,10 @@ Personal Gemini Journal is a full-stack, production-ready AI journaling applicat
 ## Demo & Walkthrough
 Due to regional payment method verification limits preventing billing activation on Google Cloud, live container deployment on Cloud Run could not be automatically finalized. However, the complete working prototype, source architecture, and live feature walkthrough are documented fully in our video demonstration.
 
-- **Demo Video Link**: [Insert your Google Drive Video Link Here]
-- **Social Media Post**: [Insert your LinkedIn/X Post Link with #AccelerateAIwithCloudRun Here]
+- **Demo Video Link**: [Watch the Walkthrough](https://drive.google.com/file/d/1yKcwDzqToXoKXLScCUhwgcbLXB686mpR/view?usp=drivesdk)
+- **Social Media Post**: [View Social Post with #AccelerateAIwithCloudRun]
 
 ## Local Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/banikbidhan101-coder/personal-gemini-journal.git](https://github.com/banikbidhan101-coder/personal-gemini-journal.git)
+   git clone [https://github.com/banikbidhan101-coder/personal-gemini-journal.git]
